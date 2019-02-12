@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/olgaczaim/node-chat-app/issues"
   },
-  "homepage": "https://github.com/olgaczaim/node-chat-app#readme"
+  "homepage": "https://github.com/olgaczaim/node-chat-app#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
